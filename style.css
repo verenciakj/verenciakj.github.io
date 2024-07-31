@@ -1,0 +1,15 @@
+#videobackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.content {
+    position: fixed;
+    top: 0;
+    background-color: rgb(103, 153, 161);
+    color: rgb(228, 225, 187);
+    text-align: center;
+    width: 100%;
+}
